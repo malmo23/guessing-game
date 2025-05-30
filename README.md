@@ -1,5 +1,5 @@
-# Project Title:guessing-game
+# Project Title: Guessing Game Assignment
 
-Makefile run date and time: Fri May 30 15:50:00 +01 2025
+**Makefile run date and time:** $(shell date)
 
-Number of lines of code in guessinggame.sh: 42
+**Number of lines of code in guessinggame.sh:** 42
