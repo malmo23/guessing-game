@@ -1,4 +1,13 @@
-Project Title:guessing-game
-Makefile run date and time: Fri May 30 16:06:00 +01 2025
+# Guessing Game Project
 
-Number of lines of code in guessinggame.sh: 42
+
+**Date and Time of Make Execution:** Thu Jul  3 18:51:46 EDT 2025
+
+
+**Number of lines in guessinggame.sh:** 25# Guessing Game Project
+
+
+**Date and Time of Make Execution:** Thu Jul  3 18:51:46 EDT 2025
+
+
+**Number of lines in guessinggame.sh:** 25
